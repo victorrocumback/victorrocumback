@@ -20,7 +20,7 @@ Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC, sem d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
          
 <div align="center">
- ![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/117930710/214310061-ebd7b5a3-5418-4048-8a13-440cab9b7d24.gif)
+![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/117930710/214310061-ebd7b5a3-5418-4048-8a13-440cab9b7d24.gif)
 </div>
   
 <div> 
