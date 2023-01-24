@@ -30,6 +30,8 @@ Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC sem de
 </div>
 
 ![Snake animation](https://github.com/victorrocumback/victorrocumback/blob/output/github-contribution-grid-snake.svg)
+
+</br>
 <!--
 **victorrocumback/victorrocumback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
