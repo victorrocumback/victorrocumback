@@ -5,7 +5,7 @@
 Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC, sem deixar o estudo independente de lado. 🤓🦾</p>
 
 
-<div align="center">
+<div float="right">
 <a href="https://github.com/victorrocumback">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrocumback&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -16,11 +16,7 @@ Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC, sem d
 
                     
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
-         
-
-![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/117930710/214310061-ebd7b5a3-5418-4048-8a13-440cab9b7d24.gif)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>         
   
 <div> 
  <a href="https://instagram.com/vitorocumback" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
