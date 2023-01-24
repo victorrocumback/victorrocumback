@@ -12,7 +12,7 @@ Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC, sem d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
           
 
-<div>
+<div align="center">
 <a href="https://github.com/victorrocumback">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrocumback&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrocumback&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
