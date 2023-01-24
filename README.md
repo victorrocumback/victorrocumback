@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 😎 
 
 <p>Estudo para ser um desenvolvedor <strong>Front-end</strong>. </br>
-Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC sem deixar o estudo independente de lado. 🤓🦾</p>
+Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC e também nas plataformas Alura e Curso em Video. 🤓🦾</p>
   
 ## Conhecimentos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="40px"/>
