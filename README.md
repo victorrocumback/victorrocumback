@@ -4,13 +4,21 @@
 <p>Estudo para ser um desenvolvedor <strong>Front-end</strong>. </br>
 Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC sem deixar o estudo independente de lado. 🤓🦾</p>
   
-## Tecnologias
+## Conhecimentos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="40px"/>
 
                     
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>         
-  
+
+## Pretendo aprender
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
+          
+          
 </br>
 </br>
 <div align="center">
