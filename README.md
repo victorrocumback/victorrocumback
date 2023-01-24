@@ -4,13 +4,6 @@
 <p>Estudo para ser um desenvolvedor <strong>Front-end</strong>, </br>
 Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC, sem deixar o estudo independente de lado. 🤓🦾</p>
 
-## Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="40px"/>
-
-                    
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
-          
 
 <div align="center">
 <a href="https://github.com/victorrocumback">
@@ -18,15 +11,24 @@ Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC, sem d
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrocumback&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![the-big-bang-theory-big-bang-theory](https://user-images.githubusercontent.com/117930710/214306547-3c54e1e6-9bf3-406b-942f-df057e9011fc.gif)
+  
+## Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="40px"/>
+
+                    
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px"/>
+         
+<div align="center">
+ ![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/117930710/214310061-ebd7b5a3-5418-4048-8a13-440cab9b7d24.gif)
+</div>
   
 <div> 
  <a href="https://instagram.com/vitorocumback" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href ="mailto:victorrocumback15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/victorrocumback/victorrocumback/blob/output/github-contribution-grid-snake.svg)
 <!--
 **victorrocumback/victorrocumback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
