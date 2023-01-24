@@ -1,7 +1,7 @@
 # Olá, me chamo Victor Rocumback! 
 ## Bem vindo ao meu perfil GitHub 😎 
 
-<p>Estudo para ser um desenvolvedor <strong>Front-end</strong>, </br>
+<p>Estudo para ser um desenvolvedor <strong>Front-end</strong>. </br>
 Estou cursando o ensino técnico em desenvolvimento de sistemas pela ETEC sem deixar o estudo independente de lado. 🤓🦾</p>
   
 ## Tecnologias
